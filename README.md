@@ -10,7 +10,7 @@
      </a>
       <h4 align="center">
           <b>
-           This tool for testing your Android device,Help to Root device and Pentest Android Phones ( Don't harm anyone use this tool ) 💀👥:space_invader:
+           This tool for testing your Android device,Help to Root device and Pentest Android Phones ( Don't harm anyone use this tool ) 💀:space_invader:
           </b>
       </h4>
   </p>
