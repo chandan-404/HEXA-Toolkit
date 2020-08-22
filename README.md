@@ -15,3 +15,6 @@
           </b>
       </h4>
   </p>
+
+  **AFH-Toolkit is a BASH Script with 28 options and an METASPLOIT Section which has 6 options which is made to do easy penetration testing in Android Device.**
+You can do prety much anything with this script and test your android device is it safe or not. This script is made with the help of ADB (Android Debug Bridge) it's an tool which is used for the developers for debugging the android device but as we know every thing has it's two side a good and a bad and i'm not telling you to do bad things but be don't do illegal things or FBI will find you 😂😂.
