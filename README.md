@@ -7,7 +7,7 @@
 
   <p align="center">
        <a href="https://github.com/Hex3C-Cyber/AFH-Toolkit">
-             <img align="center" src="logo/logo.png" width="480" height="35"><br>
+             <img align="center" src="logo/logo1.png" width="480" height="35"><br>
        </a>
       <a href="https://github.com/Hex3C-Cyber/AFH-Toolkit">
          <h1 align="center">AFH-Toolkit V1.0</h1>
