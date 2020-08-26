@@ -6,7 +6,7 @@
 
   <p align="center">
        <a href="https://github.com/Hex3C-Cyber/HEXA-Toolkit">
-             <img align="center" src="logo/hexa.png" width="540" height="40"><br>
+             <img align="center" src="logo/hexa.png" width="480" height="40"><br>
        </a>
       <a href="https://github.com/Hex3C-Cyber/HEXA-Toolkit">
          <h1 align="center">HEXA-Toolkit v1.0</h1>
